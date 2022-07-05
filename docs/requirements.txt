@@ -1,6 +1,6 @@
 pandas
 scikit-learn
-sphinx
+sphinx>=5.*
 sphinx_rtd_theme
 tensorflow
 transformers>=4.6.*
